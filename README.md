@@ -1,10 +1,10 @@
-# coffee_card
+# coffee_pref_app
 
 A new Flutter project.
 
-.# ☕ Coffee Card — Your Flutter Brew Playground
+.# ☕ Coffee Pref App — Your Flutter Brew Playground
 
-Welcome to **Coffee Card** — a Flutter app where we mix coffee preferences with playful UI layouts.  
+Welcome to **Coffee Pref App** — a Flutter app where we mix coffee preferences with playful UI layouts.  
 Think of it as your personal Flutter playground — perfect for learning, experimenting, and sipping on some fresh code. 🪄✨
 
 ---
