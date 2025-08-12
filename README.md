@@ -13,8 +13,8 @@ Think of it as your personal Flutter playground — perfect for learning, experi
 
 | Home Screen |
 |-------------|
-| (<img width="395" height="847" alt="Screenshot 2025-08-13 033423" src="https://github.com/user-attachments/assets/76dfc875-6852-48e5-9885-dff7c1d97cf7" />
-) 
+| <img width="395" height="847" alt="Screenshot 2025-08-13 033423" src="https://github.com/user-attachments/assets/76dfc875-6852-48e5-9885-dff7c1d97cf7" />
+
 
 
 
@@ -43,20 +43,7 @@ flutter pub get
 ### 3. Run the App
 flutter run
 
-###   Project Structure
-coffee_pref_app/
-│
-├── lib/
-│ ├── main.dart # Entry point
-│ ├── home.dart # Main Home widget
-│ ├── coffee_pref.dart # Coffee preference widget
-│
-├── assets/
-│ ├── img/
-│ │ ├── coffee_beans.jpg
-│ │ └── sugar_cubes.jpg
-│
-└── pubspec.yaml # Flutter config & dependencies
+
 
  ---------------------------------------------------------------------------
 ### 💡 Why This Project?
