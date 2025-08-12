@@ -11,10 +11,10 @@ Think of it as your personal Flutter playground — perfect for learning, experi
 
 ## 📸 Screenshots
 
-| Home Screen | Sandbox Layout |
-|-------------|----------------|
-| ![Home](<img width="395" height="847" alt="Screenshot 2025-08-13 033423" src="https://github.com/user-attachments/assets/76dfc875-6852-48e5-9885-dff7c1d97cf7" />
-) | !
+| Home Screen |
+|-------------|
+| (<img width="395" height="847" alt="Screenshot 2025-08-13 033423" src="https://github.com/user-attachments/assets/76dfc875-6852-48e5-9885-dff7c1d97cf7" />
+) 
 
 
 
@@ -34,8 +34,8 @@ Think of it as your personal Flutter playground — perfect for learning, experi
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/coffee_card.git
-cd coffee_card
+git clone https://github.com/shafaq0410/coffee_pref_app.git
+cd coffee_pref_app
 
 ### 2. Install Dependencies
 flutter pub get
@@ -44,20 +44,21 @@ flutter pub get
 flutter run
 
 ###   Project Structure
-coffee_card/
+coffee_pref_app/
 │
 ├── lib/
-│   ├── main.dart         # Entry point
-│   ├── home.dart         # Main Home widget
-│   ├── coffee_pref.dart  # Coffee preference widget
+│ ├── main.dart # Entry point
+│ ├── home.dart # Main Home widget
+│ ├── coffee_pref.dart # Coffee preference widget
 │
 ├── assets/
-│   ├── img/
-│   │   ├── coffee_beans.jpg
-│   │   └── sugar_cubes.jpg
+│ ├── img/
+│ │ ├── coffee_beans.jpg
+│ │ └── sugar_cubes.jpg
 │
-└── pubspec.yaml          # Flutter config & dependencies
+└── pubspec.yaml # Flutter config & dependencies
 
+ ---------------------------------------------------------------------------
 ### 💡 Why This Project?
 This app is a hands-on practice ground for:
 
@@ -68,10 +69,10 @@ State management with setState
 Image handling with Image.asset
 
 Styling with FilledButton and colors
-
+ --------------------------------------------------------------------------
 ### 🤝 Contributing
 Got ideas to improve Coffee Card? Feel free to fork the repo, make changes, and submit a pull request.
-
+ --------------------------------------------------------------------------
 
 ### 📜 License
 This project is licensed under the MIT License — you’re free to use, modify, and distribute.
